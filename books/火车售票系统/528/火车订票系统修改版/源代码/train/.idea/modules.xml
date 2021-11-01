@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/itheima_spring_ioc/itheima_spring_ioc.iml" filepath="$PROJECT_DIR$/itheima_spring_ioc/itheima_spring_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/train.iml" filepath="$PROJECT_DIR$/train.iml" />
     </modules>
   </component>
 </project>
